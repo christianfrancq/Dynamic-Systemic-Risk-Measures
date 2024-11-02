@@ -30,3 +30,5 @@ $T \alpha'  = 50$ and $T \alpha \alpha'= 250 \times 0.1 \times 0.2 = 5$, respect
 - in directory "Julien/CDS", "forFigure6.R" is used to obtain Figure 6 with the caption"-$\hat{u}(0.5, 0.5)$ as a measure of tail dependence of Portugal 5-year sovereign CDS spreads conditional on the CDS spread log-returns of 10 Eurozone countries (+UK)"
 
 Jean-Michel Zakoïan and Christian Francq would like to thank Yujian Chen and Julien Royer for their help in (re)finding the datasets. 
+
+Some portions of the R code were generated with assistance from ChatGPT, an AI language model developed by OpenAI.
