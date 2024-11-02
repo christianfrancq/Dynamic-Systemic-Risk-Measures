@@ -31,4 +31,4 @@ $T \alpha'  = 50$ and $T \alpha \alpha'= 250 \times 0.1 \times 0.2 = 5$, respect
 
 Jean-Michel Zakoïan and Christian Francq would like to thank Yujian Chen and Julien Royer for their help in (re)finding the datasets. 
 
-Some portions of the R code were generated with assistance from ChatGPT, an AI language model developed by OpenAI.
+Some portions of the R codes were generated with assistance from ChatGPT, an AI language model developed by OpenAI.
